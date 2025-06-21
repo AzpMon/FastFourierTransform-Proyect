@@ -27,12 +27,10 @@ This repository provides tools for analyzing audio signals using the **Fast Four
 │   └── Contains audio samples (`.wav`) and corresponding images showing
 │       waveform and spectrograms before and after FFT/filtering.
 │
-├── fft.py
+├── Code/
 │   └── Contains the `FastFourierTransforms` class with:
 │       - Recursive FFT and iFFT
 │       - Configurable low-pass filter
-│
-├── audio_analysis.py
 │   └── Contains the `AudioSignalAnalyzer` class with:
 │       - Waveform and spectrogram plotting (Plotly & Seaborn)
 │
