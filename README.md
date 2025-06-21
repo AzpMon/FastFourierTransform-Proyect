@@ -2,10 +2,14 @@
 # Audio FFT Analysis
 
 
-Author: Alejandro Monroy Azpeitia
-Institution: Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional
-Program: Master's in Computer Science
-Course: Algorithm Design 
+**Author**: Alejandro Monroy Azpeitia
+
+**Institution**: Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional
+
+**Program**: Master's in Computer Science
+
+**Course**: Algorithm Design and Analysis, Dr. Rolando Quintero Téllez
+
 
 This repository provides tools for analyzing audio signals using the **Fast Fourier Transform (FFT)** and its inverse. It includes utilities to visualize waveforms, spectrograms, and apply low-pass filtering to audio signals. The implementation is built using Python, with support for both Plotly and Seaborn visualizations.
 
