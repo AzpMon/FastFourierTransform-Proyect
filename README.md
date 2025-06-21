@@ -1,11 +1,17 @@
 
 # Audio FFT Analysis
 
+
+Author: Alejandro Monroy Azpeitia
+Institution: Centro de Investigación en Computación (CIC), Instituto Politécnico Nacional
+Program: Master's in Computer Science
+Course: Algorithm Design 
+
 This repository provides tools for analyzing audio signals using the **Fast Fourier Transform (FFT)** and its inverse. It includes utilities to visualize waveforms, spectrograms, and apply low-pass filtering to audio signals. The implementation is built using Python, with support for both Plotly and Seaborn visualizations.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── Experiments and analysis/
@@ -32,21 +38,21 @@ This repository provides tools for analyzing audio signals using the **Fast Four
 
 ---
 
-## ⚙️ Features
+##  Features
 
 ### `FastFourierTransforms` class
-- ✅ Recursive 1D Fast Fourier Transform (FFT)
-- ✅ Inverse FFT (iFFT)
-- ✅ Low-pass filtering with adjustable frequency retention
+-  Recursive 1D Fast Fourier Transform (FFT)
+-  Inverse FFT (iFFT)
+-  Low-pass filtering with adjustable frequency retention
 
 ### `AudioSignalAnalyzer` class
-- ✅ Plot audio waveforms using Plotly and Seaborn
-- ✅ Plot spectrograms with customizable layout
-- ✅ Compare original and filtered signals visually
+-  Plot audio waveforms using Plotly and Seaborn
+-  Plot spectrograms with customizable layout
+-  Compare original and filtered signals visually
 
 ---
 
-## 🧪 Example Use Cases
+##  Example Use Cases
 
 - Visualize how an audio signal changes after applying FFT.
 - Remove high-frequency noise using a low-pass filter.
@@ -54,7 +60,7 @@ This repository provides tools for analyzing audio signals using the **Fast Four
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 Install the required dependencies using:
 
@@ -71,7 +77,7 @@ Main libraries used:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
@@ -88,14 +94,14 @@ Main libraries used:
 
 ---
 
-## 🔍 Visualization Examples
+##  Visualization Examples
 
-- 📈 Waveform plots before and after applying FFT or filters
-- 🎛️ Spectrogram heatmaps to analyze frequency content
-- 🎧 Playback and comparison of original and processed `.wav` files
+-  Waveform plots before and after applying FFT or filters
+-  Spectrogram heatmaps to analyze frequency content
+-  Playback and comparison of original and processed `.wav` files
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
